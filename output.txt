@@ -1,0 +1,8 @@
+Enter Total number of subjects:
+3
+Enter Marks of Subject1:80
+Enter Marks of Subject2:90
+Enter Marks of Subject3:100
+Total marks:270.0
+Average:90
+The student Grade is: A
