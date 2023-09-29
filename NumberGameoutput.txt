@@ -1,0 +1,18 @@
+Let's play a game.  I'll pick a number between
+1 and 100, and you try to guess it.
+
+What is your first guess?
+34
+That's too low.  Try again:
+67
+That's too low.  Try again:
+81
+That's too high.  Try again:
+71
+That's too high.  Try again:
+69
+That's too low.  Try again:
+70
+You got it in 6 guesses!  My number was 70
+
+Thanks for playing
